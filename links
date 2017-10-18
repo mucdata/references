@@ -1,4 +1,4 @@
-http://netaz.blogspot.de/2016/08/confused-about-caffes-pooling-layer.html
+# javascript
 https://monades.roperzh.com/get-to-know-the-actor-model/
 https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec
 https://v8project.blogspot.de/2017/09/elements-kinds-in-v8.html
@@ -6,11 +6,15 @@ http://2ality.com/2012/09/expressions-vs-statements.html
 https://medium.com/fhinkel
 https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775
 https://medium.com/fhinkel
+
+# opencv
 http://eric-yuan.me/category/opencv/
 http://www.morethantechnical.com/?s=opencv
 http://halide-lang.org/
-https://sites.duke.edu/rachelmemo/2015/04/03/train-and-test-lenet-on-your-own-dataset/
 
+# caffe
+http://netaz.blogspot.de/2016/08/confused-about-caffes-pooling-layer.html
+https://sites.duke.edu/rachelmemo/2015/04/03/train-and-test-lenet-on-your-own-dataset/
 https://prateekvjoshi.com/2016/02/02/deep-learning-with-caffe-in-python-part-i-defining-a-layer/
 https://prateekvjoshi.com/2016/02/09/deep-learning-with-caffe-in-python-part-ii-interacting-with-a-model/
 https://prateekvjoshi.com/2016/02/16/deep-learning-with-caffe-in-python-part-iii-training-a-cnn/
@@ -18,3 +22,6 @@ https://software.intel.com/en-us/articles/training-and-deploying-deep-learning-n
 https://github.com/shaibagon
 https://github.com/intel/caffe/wiki/How-to-create-LMDB
 https://docs.google.com/presentation/d/1-Kp-ifcPhI3-QakXcKLMgGW5g5IoSiaWR3L-Mo1Pnow/edit#slide=id.p
+
+# segmentation
+https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html
